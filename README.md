@@ -1,8 +1,4 @@
-# distributedsystemsapp
-Project written in Java for the lecture Principles of Distributed Systems
-
-
-Principles of Distributed Systems - Winter Semester 2015/2016
+# Project written in Java for the lecture Principles of Distributed Systems
 
 ###### Practical Assignment
 
